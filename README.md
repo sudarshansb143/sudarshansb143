@@ -3,11 +3,8 @@
 ### A passionate fullstack developer from India 
 
 <br>
-<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarshansb143&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshansb143" /> </p>
-
-- 🌱 I’m currently learning **Django and Node.js**
+- 🌱 I’m currently working with **Django and Node.js**
 
 - 👨‍💻 All of my projects are available at [https://sudarshansb143.github.io/](https://sudarshansb143.github.io/)
 
