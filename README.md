@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+![Sudarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudarshansb143&show_icons=true&theme=radical)
 
 <!--
 **sudarshansb143/sudarshansb143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
