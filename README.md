@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sudarshan-78jack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sudarshan-78jack" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sudarshansb143" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sudarshansb143" height="30" width="40" /></a>
+<a target="_blank" href="https://linkedin.com/in/sudarshan-78jack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sudarshan-78jack" height="30" width="40" /></a>
+<a target="_blank" href="https://www.hackerrank.com/sudarshansb143" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sudarshansb143" height="30" width="40" /></a>
 </p>
 
 
