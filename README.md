@@ -1,6 +1,8 @@
 ## Hi 👋, I'm Sudarshan <i> (Sud)</i> 
 
-### A passionate fullstack developer from India
+### A passionate fullstack developer from 💔 India 
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarshansb143&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshansb143" /> </p>
 
