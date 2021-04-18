@@ -26,4 +26,4 @@
 </p>
 
 
-<div style="align:right;"> ![Sudarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudarshansb143&show_icons=true&theme=radical) </div>
+![Sudarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudarshansb143&show_icons=true&theme=radical)
