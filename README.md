@@ -1,7 +1,8 @@
 ## Hi 👋, I'm Sudarshan <i> (Sud)</i> 
 
-### A passionate fullstack developer from 💔 India 
+### A passionate fullstack developer from India 
 
+<br>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarshansb143&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshansb143" /> </p>
@@ -25,4 +26,4 @@
 </p>
 
 
-![Sudarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudarshansb143&show_icons=true&theme=radical)
+<div style="align:right;"> ![Sudarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudarshansb143&show_icons=true&theme=radical) </div>
