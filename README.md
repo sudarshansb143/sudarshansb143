@@ -10,7 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://sudarshansb143.github.io/](https://sudarshansb143.github.io/)
 
-- 📝 I regularly write articles on [![Sudarshan Sawandkar's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/sudarshansb143)
+- 📝 I regularly write articles on [![Sudarshan Sawandkar's DEV Community Profile] 
+
+- <a href="https://dev.to/sudarshansb143">
+    <i class="fab fa-dev" title="sudarshansb143's DEV Community Profile"></i>
+  </a>
 
 - 💬 Ask me about **Python and React**
 
