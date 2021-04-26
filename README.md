@@ -10,8 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [https://sudarshansb143.github.io/](https://sudarshansb143.github.io/)
 
- - &nbsp; &nbsp; <svg height="7" width="7"> 
-	📝 I regularly write articles on  <a href="https://dev.to/sudarshansb143"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height ="30" width = "30"></a>
+ - <svg height="7" width="7"> 
+	📝 I regularly write articles on &nbsp; &nbsp;  <a href="https://dev.to/sudarshansb143"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height ="30" width = "30"></a>
   </svg>
 
  <p>
