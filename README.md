@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Sudarshan 👋 </h1>
 <h3 align="center">🚀 Backend Developer | Open Source ♥ | Devops | Block-Chain Developer  🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47629fn96y9yx6j22qm3kvzt78yw8d9qffrot2v68m&rid=200.webp&ct=g" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
